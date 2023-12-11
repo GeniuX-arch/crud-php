@@ -1,0 +1,10 @@
+trabajo de: Jhoan Sebastian Jimenez Celis
+
+Base de datos:usuarios
+tabla: estudiantes
+
+atributos:
+-cedula varchar(12) // no se va a hacer ningun calculo por eso no puse int
+-nombre varchar(50)
+-telefono varchar(10)
+-correo varchar(100)
